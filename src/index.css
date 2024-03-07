@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*Some custom Slider component styles*/
+@layer components {
+  .slick-active .textImage {
+    opacity: 1;
+    transform: translateX(0px);
+    transition: opacity 1s cubic-bezier(0.25, 0.46, 0.45, 0.94) 420ms;
+  }
+  
+}
