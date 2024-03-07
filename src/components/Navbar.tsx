@@ -28,7 +28,6 @@ const Navbar = () => {
 
   const handleSearch = (event: React.FormEvent) => {
     event.preventDefault();
-    // Puedes hacer algo con la búsqueda, por ejemplo, redirigir a una página de resultados
     console.log('Búsqueda realizada:', searchQuery);
     setSearchQuery('');
   };
