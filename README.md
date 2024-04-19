@@ -1,4 +1,4 @@
-# Prueba técnica para vacante frontend en BeMaster
+# 🚀Clon de la aplicación web de Disney+
 
 ### Descripción del reto:
 Desarrollar un aplicativo web que permita visualizar contenido multimedia tipo
